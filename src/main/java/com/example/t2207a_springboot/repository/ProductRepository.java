@@ -1,6 +1,6 @@
-package repositories;
+package com.example.t2207a_springboot.repository;
 
-import entities.Product;
+import com.example.t2207a_springboot.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

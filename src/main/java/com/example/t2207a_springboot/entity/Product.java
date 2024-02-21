@@ -1,4 +1,4 @@
-package entities;
+package com.example.t2207a_springboot.entity;
 
 import jakarta.persistence.*;
 
